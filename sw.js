@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alca-v1';
+const CACHE_NAME = 'alca-v3';
 const CORE_FILES = [
   './',
   './index.html',
